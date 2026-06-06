@@ -45,3 +45,5 @@ http://localhost:5173
 - Vercel serverless API for deployment
 
 ## Note About The Chatbot
+
+The chatbot works without an API key using a local project-aware response engine. To make it truly answer like Claude or ChatGPT live, connect the `/api/chat` endpoint to an LLM API key later.
